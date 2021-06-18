@@ -44,13 +44,13 @@
         <cassandra.version>3.6.0</cassandra.version>
         <cassandra-unit.version>3.5.0.1</cassandra-unit.version>
         <takari-cpsuite.version>1.2.7</takari-cpsuite.version>
-        <guava.version>21.0</guava.version>
+        <guava.version>30.0-android</guava.version>
         <caffeine.version>2.6.1</caffeine.version>
         <commons-lang3.version>3.4</commons-lang3.version>
         <commons-validator.version>1.6</commons-validator.version>
         <commons-io.version>2.5</commons-io.version>
         <commons-csv.version>1.4</commons-csv.version>
-        <jackson.version>2.9.8</jackson.version>
+        <jackson.version>2.9.10.8</jackson.version>
         <json-schema-validator.version>2.2.6</json-schema-validator.version>
         <scala.version>2.11</scala.version>
         <akka.version>2.4.2</akka.version>
@@ -265,7 +265,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
