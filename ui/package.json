@@ -58,7 +58,7 @@
     "javascript-detect-element-resize": "^0.5.3",
     "jquery": "^3.1.0",
     "jquery.terminal": "^1.5.0",
-    "js-beautify": "^1.6.4",
+    "js-beautify": "^1.14.1",
     "json-schema-defaults": "^0.2.0",
     "jstree": "^3.3.7",
     "jstree-bootstrap-theme": "^1.0.1",
