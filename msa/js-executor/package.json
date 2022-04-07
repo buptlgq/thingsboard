@@ -19,7 +19,7 @@
     "long": "^4.0.0",
     "protobufjs": "^6.8.8",
     "uuid-parse": "^1.0.0",
-    "winston": "^3.0.0",
+    "winston": "^3.3.0",
     "winston-daily-rotate-file": "^3.2.1"
   },
   "engine": "node >= 5.9.0",
